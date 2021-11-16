@@ -1,0 +1,10 @@
+<svg viewBox="-9.632 -18.025 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <rect x="176.926" y="232.777" width="127.494" height="34.476" style="fill: rgb(216, 216, 216);"></rect>
+  <rect y="224.243" width="168.469" height="51.514" style="fill: none; stroke: rgba(187, 218, 85, 0.5);" x="165.766"></rect>
+  <g transform="matrix(1.387049, 0, 0, 1.430188, 262.724945, 232.5233)" style="">
+    <defs></defs>
+    <path d="M19.77 5.03l1.4 1.4L8.43 19.17l-5.6-5.6 1.4-1.4 4.2 4.2L19.77 5.03m0-2.83L8.43 13.54l-4.2-4.2L0 13.57 8.43 22 24 6.43 19.77 2.2z" style="fill: rgb(5, 149, 22); stroke: rgb(204, 244, 72);"></path>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Arial Black&quot;; font-size: 20.3px; white-space: pre;" x="192.155" y="256.471">Done</text>
+</svg>

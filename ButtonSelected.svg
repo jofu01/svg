@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 290 100" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 197, 122); pointer-events: none;" width="280" height="90" x="5" y="5" bx:origin="0 0"/>
+  <rect style="fill: rgb(216, 216, 216); pointer-events: none;" width="270" height="80" y="10" x="10" bx:origin="0 0">
+    <desc>hhhh</desc>
+  </rect>
+  <g transform="matrix(1.009931, 0, 0, 1.015322, -2.671435, 2.290021)" bx:origin="-6.482056 -1.780273">
+    <path d="M 269 46.99 C 269 41.011 264.146 36.156 258.167 36.156 L 244.188 36.156 C 238.208 36.156 233.354 41.011 233.354 46.99 C 233.354 52.969 238.208 57.824 244.188 57.824 L 258.167 57.824 C 264.146 57.824 269 52.969 269 46.99 Z" stroke-linecap="butt" stroke-miterlimit="2" style="stroke: rgb(193, 193, 193); stroke-width: 2px; fill: rgb(121, 121, 121);"/>
+    <circle cx="244.405" cy="47" r="9.785" style="stroke: rgb(193, 193, 193);" fill="#fff"/>
+  </g>
+</svg>
