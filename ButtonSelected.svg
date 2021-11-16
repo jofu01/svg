@@ -16,7 +16,7 @@
     </filter>
   </defs>
   <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 197, 122); pointer-events: none; stroke-width: 2px;" width="280" height="90" x="5" y="5" bx:origin="0 0"/>
-  <rect style="pointer-events: none; fill: rgb(225, 227, 228);" width="270" height="80" y="10" x="10" bx:origin="0 0">
+  <rect style="pointer-events: none; fill: rgb(225, 227, 228); stroke-width: 0px;" width="270" height="80" y="10" x="10" bx:origin="0 0">
     <desc>hhhh</desc>
   </rect>
   <g transform="matrix(1.009931, 0, 0, 1.015322, -2.671435, 2.290021)" bx:origin="-6.482056 -1.780273">
