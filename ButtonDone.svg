@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 290 100" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-0" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 -3 0 2 1 rgba(0,0,0,0.3)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+      <feOffset dx="-3" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g>
+    <title>Button</title>
+    <rect style="fill: rgb(255, 255, 255); pointer-events: none; stroke-width: 2px; stroke: rgb(225, 227, 228);" width="280" height="90" x="5" y="5" bx:origin="0 0"/>
+    <rect style="pointer-events: none; fill: rgb(225, 227, 228); stroke-width: 0px;" width="270" height="80" y="10" x="10" bx:origin="0 0"/>
+    <path d="M 269 50 C 269 43.929 264.098 39 258.059 39 L 243.942 39 C 237.902 39 233 43.929 233 50 C 233 56.071 237.902 61 243.942 61 L 258.059 61 C 264.098 61 269 56.071 269 50 Z" stroke-linecap="butt" stroke-miterlimit="2" style="stroke: rgb(193, 193, 193); stroke-width: 2px; fill: rgb(0, 197, 122);"/>
+    <circle cx="244.405" cy="47" r="9.785" style="stroke: rgb(193, 193, 193); filter: url(#drop-shadow-filter-0);" fill="#fff" transform="matrix(1.009931, 0, 0, 1.015322, 11.328566, 2.290021)"/>
+  </g>
+</svg>
