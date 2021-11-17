@@ -31,8 +31,8 @@
     <rect style="fill: rgb(255, 255, 255); stroke-width: 2px; stroke: rgb(225, 227, 228);" width="228.372" height="90" x="5" y="5" bx:origin="0 0"/>
     <rect style="fill: rgb(225, 227, 228); stroke-width: 0px;" width="220" height="80" y="10" x="11" bx:origin="0 0"/>
     <circle style="stroke: rgb(225, 227, 228); stroke-width: 3px; fill: rgb(0, 197, 122);" cx="242" cy="50" r="45"/>
-    <path style="fill: rgb(231, 0, 0); filter: url(#inner-shadow-filter-0);" transform="matrix(0.498753, 0, 0, 0.498754, -106.842812, -37.206139)" d="M 699.43 96.653 A 78.195 78.195 0 1 1 647.107332236 232.958209628 L 692.721965671 182.298026875 A 10.025 10.025 0 1 0 699.43 164.823 Z" bx:shape="pie 699.43 174.848 10.025 78.195 0 222 1@058a788e"/>
-    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 14px; stroke-width: 0px; white-space: pre;" x="207.012" y="56.702" transform="matrix(0.941177, 0, 0, 1.083665, 10.176359, -5.664329)" bx:origin="0.590904 0.5">48h</text>
+    <path style="filter: url(#inner-shadow-filter-0); fill: rgb(0, 149, 90);" transform="matrix(0.500484, 0, 0, 0.498754, -108.192223, -37.206139)" d="M 699.43 94.648 A 80.2 80.2 0 1 1 637.102893891 124.376504638 L 699.43 174.848 Z" bx:shape="pie 699.43 174.848 0 80.2 0 309 1@b6441679" bx:origin="0.483869 0.5"/>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 14px; stroke-width: 0px; white-space: pre;" x="207.012" y="56.702" transform="matrix(0.941177, 0, 0, 1.083665, 13.176359, -5.664329)" bx:origin="0.590904 0.5">48h</text>
     <polygon style="stroke-width: 3px; stroke-linecap: square; fill: rgb(255, 255, 255); filter: url(#drop-shadow-filter-0);" points="235.716 52.289 235.894 26.838 245.675 26.838 245.688 48.062 263.467 65.841 256.503 72.805"/>
   </g>
 </svg>
