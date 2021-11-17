@@ -1,0 +1,24 @@
+<svg id="erhpny5TuBW1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        <![CDATA[
+        #erhpny5TuBW2_ts {
+            animation: erhpny5TuBW2_ts__ts 3000ms linear 1 normal forwards
+        }
+
+        @keyframes erhpny5TuBW2_ts__ts {
+            0% {
+                transform: translate(40.577618px, 114.801444px) scale(1, 1)
+            }
+
+            100% {
+                transform: translate(40.577618px, 114.801444px) scale(0.086736, 1)
+            }
+        }
+        ]]>
+    </style>
+    <g id="erhpny5TuBW2_ts" transform="translate(40.577618,114.801444) scale(1,1)">
+        <rect id="erhpny5TuBW2" width="212.274368" height="54.151624" rx="0" ry="0" transform="translate(0,-27.075812)"
+            fill="rgb(210,219,237)" stroke="none" stroke-width="0" />
+    </g>
+</svg>
